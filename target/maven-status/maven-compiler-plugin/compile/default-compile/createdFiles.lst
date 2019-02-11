@@ -1,0 +1,5 @@
+com\darkhorse\SpringBootRestAPIExample\model\Flight.class
+com\darkhorse\SpringBootRestAPIExample\controller\FlightController.class
+com\darkhorse\SpringBootRestAPIExample\repository\FlightRepository.class
+com\darkhorse\SpringBootRestAPIExample\dao\FlightDAO.class
+com\darkhorse\SpringBootRestAPIExample\FlightApplication.class
